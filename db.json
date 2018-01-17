@@ -1,0 +1,76 @@
+{
+  "SchedulerLog": [
+    {
+      "SchedulerLogID": 1,
+      "SchedulerID": 3,
+      "StatusID": 1,
+      "Message": "TWD.Webservices",
+      "Runtime": 1,
+      "LastModification": "2016-07-15 14:32:07.3330000",
+      "ModifiedBy": "TWD_SP"
+    },
+    {
+      "SchedulerLogID": 2,
+      "SchedulerID": 3,
+      "StatusID": 2,
+      "Message": "4 items executed",
+      "Runtime": 1,
+      "LastModification": "2016-07-15 14:32:07.3330000",
+      "ModifiedBy": "TWD_SP"
+    },
+    {
+      "SchedulerLogID": 3,
+      "SchedulerID": 3,
+      "StatusID": 3,
+      "Message": "Task: DistributorUpload",
+      "Runtime": 1,
+      "LastModification": "2016-07-15 14:32:07.3330000",
+      "ModifiedBy": "TWD_SP"
+    },
+    {
+      "SchedulerLogID": 4,
+      "SchedulerID": 3,
+      "StatusID": 0,
+      "Message": "Nothing to do.",
+      "Runtime": 164,
+      "LastModification": "2016-07-15 14:32:07.3330000",
+      "ModifiedBy": "TWD_SP"
+    },
+    {
+      "SchedulerLogID": 5,
+      "SchedulerID": 10,
+      "StatusID": 1,
+      "Message": "AnnouncementFile found Fetch_Announcement_MC_200057.xls(\n)1 announcements loaded into TuppCar.",
+      "Runtime": 1,
+      "LastModification": "2016-07-15 14:32:07.3330000",
+      "ModifiedBy": "TWD_SP"
+    },
+    {
+      "SchedulerLogID": 6,
+      "SchedulerID": 4,
+      "StatusID": 2,
+      "Message": "Mail to import found. Attachment: Fetch_Announcement_MC_200058.xls(\n)1 announcements successfully loaded into TuppCar.",
+      "Runtime": 1,
+      "LastModification": "2016-07-15 14:32:07.3330000",
+      "ModifiedBy": "TWD_SP"
+    },
+    {
+      "SchedulerLogID": 7,
+      "SchedulerID": 8,
+      "StatusID": 2,
+      "Message": "Task: DistributorUpload System.Web.Services.Protocols.SoapException:  ",
+      "Runtime": 1,
+      "LastModification": "2016-07-15 14:32:07.3330000",
+      "ModifiedBy": "TWD_SP"
+    },
+    {
+      "SchedulerLogID": 8,
+      "SchedulerID": 10,
+      "StatusID": 2,
+      "Message": "Mail to import found. Attachment: Fetch_Announcement_MC_viele - Kopie.xls(\n)FetchId 200058 - LoadAnnouncementData failed: Adding a new DeliveryAnnouncementData is not valid since this workflow is not in the appropriate stateSent but in DeliveryAnnouncementAccepted(\n)FetchId 200057 - LoadAnnouncementData failed: Adding a new DeliveryAnnouncementData is not valid since this workflow is not in the appropriate stateSent but in DeliveryAnnouncementAccepted",
+      "Runtime": 1,
+      "LastModification": "2016-07-15 14:32:07.3330000",
+      "ModifiedBy": "TWD_SP"
+    }
+  ]
+}
